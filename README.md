@@ -1,6 +1,3 @@
-Sure — here’s your **Terms and Conditions** neatly arranged as **plain text**, ready to upload to GitHub (for example, in a file named `TERMS_AND_CONDITIONS.md` or `TERMS.txt`):
-
----
 
 # NesMasPoint Terms and Conditions
 
