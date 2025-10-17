@@ -120,6 +120,4 @@ All questions, concerns, and complaints arising from these Terms & Conditions sh
 
 **[support@nesmaspoint.com](mailto:support@nesmaspoint.com)**
 
----
 
-Would you like me to format it as **Markdown with GitHub styling (bold headers, bullet points, spacing for readability, etc.)** or keep it **plain .txt with no Markdown syntax**?
