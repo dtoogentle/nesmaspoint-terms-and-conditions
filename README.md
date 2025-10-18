@@ -26,11 +26,22 @@ These Terms and Conditions ("Terms") constitute a legally binding agreement betw
 
 ---
 
-## 4. Payment and Fees
+## 4. Fees and Subscriptions
 
-**4.1 Fees:** Your use of the Software is subject to payment of fees, as detailed in our pricing plans. You agree to pay all applicable fees as per your subscription.
-**4.2 Refunds:** We do not provide refunds for fees paid.
+**4.1 Subscription Plans:**
+Your use of the Software may require a paid subscription. Current plans include:
 
+₦3,000/month
+₦9,000/quarter
+₦30,000/year
+
+Subscriptions automatically renew at the end of each billing period unless canceled at least 24 hours before renewal. You can manage or cancel your subscription at any time in your App Store account settings.
+
+**4.2 Payments:**
+All subscription payments are processed securely through the Apple App Store. By subscribing, you authorize Apple to charge your Apple ID account according to your selected plan.
+
+**4.3 Refunds:**
+Refunds and billing inquiries are handled by Apple, in accordance with App Store policies. You may request a refund directly through Apple Support at https://reportaproblem.apple.com.
 ---
 
 ## 5. Termination
